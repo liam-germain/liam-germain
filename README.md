@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liam-germain
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: liam@germains.io 
 
